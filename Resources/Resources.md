@@ -6,3 +6,4 @@
 4. https://www.shellscript.sh/index.html
 5. https://www.youtube.com/watch?v=0fKg7e37bQE
 6. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+7. https://docs.python.org/3/tutorial/index.html
