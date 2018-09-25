@@ -1,0 +1,4 @@
+cd ~/ASTR288p/homeworks/lecture03/hwdir1/
+echo "constantinos" > constantinos.txt
+link constantinos.txt ../hwdir2/kalapotharakos.txt
+echo "kalapotharakos" >> ../hwdir2/kalapotharakos.txt

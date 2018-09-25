@@ -1,0 +1,8 @@
+cd ~/ASTR288p/homeworks/
+mkdir lecture03
+cd lecture03
+mkdir hwdir1
+mkdir hwdir2
+cd hwdir1/
+find ~/ASTR288p/ -name "*.dat" > list_of_dat_files.txt
+less list_of_dat_files.txt | wc -l >> list_of_dat_files.txt

@@ -1,0 +1,12 @@
+cd ~/ASTR288p/homeworks/lecture02/
+cp ~/ASTR288p/lectures/lecture02/art_data.dat ~/ASTR288p/homeworks/lecture02/
+grep -o '0' art_data.dat | wc -l >> counting_digits.txt
+grep -o '1' art_data.dat | wc -l >> counting_digits.txt
+grep -o '2' art_data.dat | wc -l >> counting_digits.txt
+grep -o '3' art_data.dat | wc -l >> counting_digits.txt
+grep -o '4' art_data.dat | wc -l >> counting_digits.txt
+grep -o '5' art_data.dat | wc -l >> counting_digits.txt
+grep -o '6' art_data.dat | wc -l >> counting_digits.txt
+grep -o '7' art_data.dat | wc -l >> counting_digits.txt
+grep -o '8' art_data.dat | wc -l >> counting_digits.txt
+grep -o '9' art_data.dat | wc -l >> counting_digits.txt

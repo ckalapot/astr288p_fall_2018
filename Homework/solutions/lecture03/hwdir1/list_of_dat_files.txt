@@ -1,0 +1,8 @@
+/n/ursa1/A288P/kkalap/ASTR288p/lectures/lecture02/art_data.dat
+/n/ursa1/A288P/kkalap/ASTR288p/lectures/lecture02/for_tar/art_data.dat
+/n/ursa1/A288P/kkalap/ASTR288p/lectures/trash/for_tar/art_data.dat
+/n/ursa1/A288P/kkalap/ASTR288p/lectures/lecture03/01.dat
+/n/ursa1/A288P/kkalap/ASTR288p/lectures/lecture03/02.dat
+/n/ursa1/A288P/kkalap/ASTR288p/lectures/lecture03/03.dat
+/n/ursa1/A288P/kkalap/ASTR288p/homeworks/lecture02/art_data.dat
+7

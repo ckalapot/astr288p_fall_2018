@@ -1,0 +1,26 @@
+cd ASTR288p
+mkdir homeworks
+cd homeworks
+mkdir lecture02
+cd lecture02
+mkdir hwdir1
+mkdir hwdir2
+mkdir hwdir3
+cd hwdir1
+cat > myname.txt
+Constantinos Kalapotharakos
+C-d
+cd ../hwdir2/
+cat > message.txt
+This is my first homework for ASTR288p
+C-d
+cd ../
+cp ./hwdir1/myname.txt ./hwdir3/
+cp ./hwdir2/message.txt ./hwdir3/
+cd hwdir3/
+cat myname.txt > everything.txt
+cat message.txt >> everything.txt
+echo "I think I did it" >> everything.txt
+cd ~
+rm ./ASTR288p/homeworks/lecture02/hwdir3/myname.txt
+rm ./ASTR288p/homeworks/lecture02/hwdir3/message.txt
